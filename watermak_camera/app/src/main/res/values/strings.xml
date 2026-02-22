@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">河道清洁水印相机</string>
+    <string name="prompt_select_river">Select River</string>
+    <string name="prompt_select_work_status">Select Work Status</string>
+    <string name="button_capture">Capture</string>
+    <string name="image_view_description">Captured Image</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="button_login">登录</string>
+    <string name="button_register">注册</string>
+    <string name="hint_confirm_password">请输入确认密码</string>
+    <string name="label_confirm_password">确认密码</string>
+    <string name="label_password">密码</string>
+    <string name="label_username">用户名</string>
+    <string name="title_login">河道清洁信息化管理系统</string>
+    <string name="button_toggle_to_register">切换到注册</string>
+    <string name="button_toggle_to_login">切换到登录</string>
+    <string-array name="河道列表">
+        <item>张家港河</item>
+        <item>锡澄运河</item>
+        <item>西横河</item>
+        <item>老夏港河</item>
+        <item>白屈港河</item>
+        <item>东青河</item>
+        <item>东横河</item>
+        <item>应天河</item>
+        <item>青祝河</item>
+        <item>新沟河</item>
+        <item>冯泾河</item>
+        <item>新夏港河</item>
+        <item>申港河</item>
+        <item>大河港河</item>
+        <item>桃花港河</item>
+        <item>环山河</item>
+        <item>利港河</item>
+        <item>十一圩港(二干河)</item>
+        <item>界河-富贝河</item>
+        <item>芦埠港河</item>
+        <item>祝塘河</item>
+        <item>泰清河</item>
+        <item>石牌港河</item>
+        <item>黄昌河</item>
+        <item>黄山港河</item>
+    </string-array>
+</resources>
