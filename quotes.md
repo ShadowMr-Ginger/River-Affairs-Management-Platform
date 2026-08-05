@@ -8,3 +8,5 @@
 
 > Simplicity is the ultimate sophistication. —— Leonardo da Vinci  (2026-08-04)
 
+> Stay hungry, stay foolish. —— Steve Jobs  (2026-08-05)
+
