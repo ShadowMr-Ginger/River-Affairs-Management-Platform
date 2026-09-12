@@ -18,3 +18,5 @@
 
 > Make it work, make it right, make it fast. —— Kent Beck  (2026-08-19)
 
+> Talk is cheap. Show me the code. —— Linus Torvalds  (2026-09-12)
+
