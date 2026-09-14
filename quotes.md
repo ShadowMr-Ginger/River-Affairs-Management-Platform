@@ -20,3 +20,5 @@
 
 > Talk is cheap. Show me the code. —— Linus Torvalds  (2026-09-12)
 
+> Simplicity is the ultimate sophistication. —— Leonardo da Vinci  (2026-09-14)
+
