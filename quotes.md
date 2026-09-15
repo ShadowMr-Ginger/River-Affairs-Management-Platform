@@ -22,3 +22,5 @@
 
 > Simplicity is the ultimate sophistication. —— Leonardo da Vinci  (2026-09-14)
 
+> Code is like humor. When you have to explain it, it’s bad. —— Cory House  (2026-09-15)
+
